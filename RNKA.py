@@ -1,5 +1,5 @@
 
-# File: RNKO.py
+# File: RNKA.py
 # Description: Print out my initials.
 # Assignment Number: 2
 #
@@ -13,7 +13,7 @@
 
 print()
 
-print("...RNKO")
+print("...RNKA")
 
 print()
 
