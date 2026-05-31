@@ -1,6 +1,7 @@
 
 def main():
-  # File: RNKA.py
+ pass
+  # File: RNK.py
 # Description: Print out my initials.
 # Assignment Number: 2
 #
@@ -14,7 +15,7 @@ def main():
 
 print()
 
-print("...RNKA")
+print("...RNK")
 
 print()
 
